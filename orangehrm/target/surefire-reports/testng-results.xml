@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40120" started-at="2020-10-15T01:03:24Z" finished-at="2020-10-15T01:04:04Z">
+  <suite name="Suite" duration-ms="39992" started-at="2020-10-15T01:11:19Z" finished-at="2020-10-15T01:11:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="40120" started-at="2020-10-15T01:03:24Z" finished-at="2020-10-15T01:04:04Z">
+    <test name="Test" duration-ms="39992" started-at="2020-10-15T01:11:19Z" finished-at="2020-10-15T01:11:59Z">
       <class name="TestCases.TC002">
-        <test-method status="PASS" signature="openApp()[pri:0, instance:TestCases.TC002@4520ebad]" name="openApp" is-config="true" duration-ms="6048" started-at="2020-10-15T01:03:36Z" finished-at="2020-10-15T01:03:42Z">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:TestCases.TC002@4520ebad]" name="openApp" is-config="true" duration-ms="6004" started-at="2020-10-15T01:11:32Z" finished-at="2020-10-15T01:11:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method status="PASS" signature="TestQualifications()[pri:0, instance:TestCases.TC002@4520ebad]" name="TestQualifications" duration-ms="21856" started-at="2020-10-15T01:03:42Z" finished-at="2020-10-15T01:04:04Z">
+        <test-method status="PASS" signature="TestQualifications()[pri:0, instance:TestCases.TC002@4520ebad]" name="TestQualifications" duration-ms="21146" started-at="2020-10-15T01:11:38Z" finished-at="2020-10-15T01:11:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestQualifications -->
-        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestCases.TC002@4520ebad]" name="closeApp" is-config="true" duration-ms="583" started-at="2020-10-15T01:04:04Z" finished-at="2020-10-15T01:04:04Z">
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestCases.TC002@4520ebad]" name="closeApp" is-config="true" duration-ms="575" started-at="2020-10-15T01:11:59Z" finished-at="2020-10-15T01:11:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
       </class> <!-- TestCases.TC002 -->
       <class name="TestCases.TC001">
-        <test-method status="PASS" signature="openApp()[pri:0, instance:TestCases.TC001@58651fd0]" name="openApp" is-config="true" duration-ms="6587" started-at="2020-10-15T01:03:24Z" finished-at="2020-10-15T01:03:31Z">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:TestCases.TC001@58651fd0]" name="openApp" is-config="true" duration-ms="7595" started-at="2020-10-15T01:11:19Z" finished-at="2020-10-15T01:11:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method status="PASS" signature="TestTC001()[pri:0, instance:TestCases.TC001@58651fd0]" name="TestTC001" duration-ms="4443" started-at="2020-10-15T01:03:31Z" finished-at="2020-10-15T01:03:35Z">
+        <test-method status="PASS" signature="TestTC001()[pri:0, instance:TestCases.TC001@58651fd0]" name="TestTC001" duration-ms="4095" started-at="2020-10-15T01:11:27Z" finished-at="2020-10-15T01:11:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestTC001 -->
-        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestCases.TC001@58651fd0]" name="closeApp" is-config="true" duration-ms="588" started-at="2020-10-15T01:03:35Z" finished-at="2020-10-15T01:03:36Z">
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestCases.TC001@58651fd0]" name="closeApp" is-config="true" duration-ms="561" started-at="2020-10-15T01:11:31Z" finished-at="2020-10-15T01:11:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->

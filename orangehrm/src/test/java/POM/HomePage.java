@@ -146,7 +146,7 @@ public class HomePage extends BasePage {
 	
 	public void clickLanguages() {
 		autoUtils.clickElement(qualifications, "Qualifications");
-		autoUtils.clickElement(languages, "Skills");
+		autoUtils.clickElement(languages, "Languages");
 	}
 	
 	public void editLanguages() {
